@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Leaderx777
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning bootstrap 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web development and Machine learning\AI Engineer 
+- 🌱 I’m currently learning Javascript and Data and Programming Foundations for AI 
+- 💞️ I’m looking to collaborate on Any project I can add value too
+- 📫 How to reach me dleadley@yahoo.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am facinated by Generative AI 
 
 <!---
 Leaderx777/Leaderx777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
