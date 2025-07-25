@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leaderx777
+- 👋 Hi, I’m @dAIvid
 - 👀 I’m interested in Web development and Machine learning\AI Engineer 
 - 🌱 I’m currently learning Javascript and Data and Programming Foundations for AI 
 - 💞️ I’m looking to collaborate on Any project I can add value too
