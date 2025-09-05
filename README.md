@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Any project I can add value too
 - 📫 How to reach me dleadley@yahoo.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am facinated by Generative AI 
+- ⚡ Fun fact: I am facinated by Generative AI and automation
 
 <!---
 Leaderx777/Leaderx777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
